@@ -20,6 +20,7 @@
 * CSS
 * JavaScript
 * C
+* Shell
 * Bootstrap
 * Git/Github
 
