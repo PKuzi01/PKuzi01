@@ -5,9 +5,9 @@
 
 #### About me:
 * My full name is Philisizwe Kuzwayo. Phila (Pee-lah) is fine though.
-* I'm an aspiring software developer.
+* I'm an aspiring web developer.
 * I'm studying for a Bachelor of Arts undergraduate degree in Philosophy and the Theory of Literature at the University of South Africa.
-* I'm enrolled for certifications in web developement at SheCodes, and software engineering at ALX Africa.
+* I'm enrolled for certifications in web developement at SheCodes, and a web development bootcamp created by Dr. Angela Yu.
 * I enjoy gaming (Skyrim and Genshin Impact are my favourites), reading (I read at least 7 books at a time, no less) and anime (don't get me started).
 
 #### My focusses right now:
@@ -27,5 +27,5 @@ To create the spaces for the conversations we need to have, to build the courage
 * Email: ilaphi@outlook.com
 
 #### Well, that's all from me...
-I hope we can work together, and I can learn from you and your experiences.
+I hope we can work together, so that I may learn from you and your experiences.
 Until then, I wish you well on all your endevours.
