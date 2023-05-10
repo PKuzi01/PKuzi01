@@ -5,7 +5,7 @@
 
 #### About me:
 * My full name is Philisizwe Kuzwayo. Phila (Pee-lah) is fine though.
-* I'm an aspiring web developer.
+* I'm an aspiring web developer, with an interest in the UX/UI space.
 * I'm studying for a Bachelor of Arts undergraduate degree in Philosophy and the Theory of Literature at the University of South Africa.
 * I'm enrolled for certifications in web developement at SheCodes, and a web development bootcamp created by Dr. Angela Yu.
 * I enjoy gaming (Skyrim and Genshin Impact are my favourites), reading (I read at least 7 books at a time, no less) and anime (don't get me started).
