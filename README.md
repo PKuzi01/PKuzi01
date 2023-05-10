@@ -16,12 +16,8 @@
 * Building projects to prove my acquired skills.
 
 #### Currently learning:
-* HTML
-* CSS
 * JavaScript
-* Shell
-* Bootstrap
-* Git/Github
+* React
 
 #### The vision
 To create the spaces for the conversations we need to have, to build the courage for people to have them often.
@@ -29,7 +25,6 @@ To create the spaces for the conversations we need to have, to build the courage
 #### You can find me here:
 * LinkedIn: Philisizwe Kuzwayo
 * Email: ilaphi@outlook.com
-* Twitter: pkuzi01
 
 #### Well, that's all from me...
 I hope we can work together, and I can learn from you and your experiences.
