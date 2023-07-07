@@ -17,7 +17,7 @@
 
 #### Currently learning:
 * JavaScript
-* React
+* jQuery
 
 #### The vision
 To create the spaces for the conversations we need to have, to build the courage for people to have them often.
