@@ -15,6 +15,15 @@
 * Gathering skills to create my portfolios.
 * Building projects to prove my acquired skills.
 
+####Skil set:
+* HTML
+* CSS
+* JS
+* Bootstrap
+* Git/Github
+* Responsive Web Design
+* The use of APIs
+
 #### Currently learning:
 * JavaScript
 * jQuery
