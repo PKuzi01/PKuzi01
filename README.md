@@ -15,7 +15,7 @@
 * Gathering skills to create my portfolios.
 * Building projects to prove my acquired skills.
 
-####Skil set:
+#### Skill set:
 * HTML
 * CSS
 * JS
