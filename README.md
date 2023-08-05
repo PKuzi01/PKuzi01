@@ -23,10 +23,13 @@
 * Git/Github
 * Responsive Web Design
 * The use of APIs
-
-#### Currently learning:
 * JavaScript
 * jQuery
+
+#### Currently learning:
+* React
+* NodeJS
+* Express.js
 
 #### The vision
 To create the spaces for the conversations we need to have, to build the courage for people to have them often.
