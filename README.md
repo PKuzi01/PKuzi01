@@ -25,11 +25,14 @@
 * The use of APIs
 * JavaScript
 * jQuery
-
-#### Currently learning:
-* React
-* NodeJS
 * Express.js
+* Node.js
+* npm
+* React.js
+  
+#### Currently learning:
+* Express.js
+* EJS
 
 #### The vision
 To create the spaces for the conversations we need to have, to build the courage for people to have them often.
