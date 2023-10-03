@@ -41,5 +41,5 @@ To create the spaces for the conversations we need to have, to build the courage
 * Email: ilaphi@outlook.com
 
 #### Well, that's all from me... 🤗
-I hope we can work together, so that I may learn from you and your experiences. IF ypu'd like to, mail me. Let's talk.
+I hope we can work together, so that I may learn from you and your experiences. If you'd like to, mail me. Let's talk.
 Until then, I wish you well on all your endevours.
