@@ -18,6 +18,7 @@
 #### Skill set: 😤
 * HTML
 * CSS
+* SASS
 * JS
 * Bootstrap
 * Git/Github
@@ -30,8 +31,7 @@
 * React.js
   
 #### Currently learning: 🫡
-* Express.js
-* EJS
+* APIs
 
 #### The vision 🌸
 To create the spaces for the conversations we need to have, to build the courage for people to have them often.
