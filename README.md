@@ -28,6 +28,7 @@
 * Express.js
 * Node.js
 * npm
+* EJS
 * React.js
   
 #### Currently learning: 🫡
