@@ -12,7 +12,7 @@
 
 ### You can find me here: 🔍
 * LinkedIn: [Philisizwe Kuzwayo](www.linkedin.com/in/philisizwekuzwayo)
-* Email: ilaphi@outlook.com
+* Email: cre8storeese@gmail.com
 
 #### Well, that's all from me... 🤗
 I hope we can work together, so that I may learn from you and your experiences. If you'd like to, mail me. Let's talk. Until then, I wish you well on all your endevours.👋🏾
