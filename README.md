@@ -1,19 +1,16 @@
 
-##  What's up? 👋🏾
+##  salutations.
 
-## I'm Phila. Nice to meet you. 💚
+starting from scratch. if we ever met, so we didn't. Nice to meet you. though.
 
-### About me: 😊
-* My full name is Philisizwe Kuzwayo. Phila (Pee-lah) is fine though. 👋🏾
-* I like to build front-end stuff, and I’m currently learning the intricacies of web design.. 🎨
-* I’m a BA graduate. 🎓
-* I spend most of my time completing courses on web development and web design. 👩🏾‍💻
-* I enjoy gaming (WASD supremacy, IYKYK), reading (I read at least 7 books at a time, no less) and anime (don't get me started). 🎮
+### lil' descrptions would be-
+-that i was a double major in humanities, work in sales, has worked in retail and is trying to figure out why the writing and tech itch won't leave me alone.
+sorry mom and dad. it'll be cool though, promise.
 
-### You can find me here: 🔍
+### the "adult" sites (and no, not the orange one or the other one, with the blue)
 * LinkedIn: [Philisizwe Kuzwayo](www.linkedin.com/in/philisizwekuzwayo)
 * Email: cre8storeese@gmail.com
 
-#### Well, that's all from me... 🤗
-I hope we can work together, so that I may learn from you and your experiences. If you'd like to, mail me. Let's talk. Until then, I wish you well on all your endevours.👋🏾
+#### in conclusion-
+i'm just trying to make 30 year old me proud, despite the rest of the dread.
 
