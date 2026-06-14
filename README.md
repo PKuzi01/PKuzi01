@@ -1,7 +1,7 @@
 
 ##  salutations.
 
-starting from scratch. if we ever met, so we didn't. Nice to meet you. though.
+starting from scratch. if we ever met, we didn't. nice to meet you. though.
 
 ### lil' descrptions would be-
 -that i was a double major in humanities, work in sales, has worked in retail and is trying to figure out why the writing and tech itch won't leave me alone.
